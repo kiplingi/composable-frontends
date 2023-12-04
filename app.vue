@@ -9,8 +9,8 @@ import { getPrefix } from "./i18n/src/helpers/prefix";
 useBreadcrumbs();
 
 useHead({
-  title: "1 Shopware Demo store",
-  meta: [{ name: "description", content: "Shopware Demo store" }],
+  title: "Shopware Demo store",
+  meta: [{ name: "description", content: "1 Shopware Demo store" }],
   htmlAttrs: {
     lang: "en",
   },
